@@ -1,6 +1,6 @@
 <svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
- <g id="Layer_1">
-  <title>Layer 1</title>
+ <g id="Logo">
+  <title>Logo</title>
   <ellipse stroke-width="2" ry="48" rx="48" id="svg_1" cy="64" cx="64" stroke="#000" fill="#fff"/>
   <ellipse stroke-width="2" ry="8" rx="8" id="svg_2" cy="32" cx="64" stroke="#000" fill="#fff"/>
   <ellipse stroke-width="2" ry="8" rx="8" id="svg_3" cy="64" cx="32" stroke="#000" fill="#fff"/>
