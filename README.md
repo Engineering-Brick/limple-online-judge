@@ -12,6 +12,6 @@ Limple Online Judge （简称 Limple OJ 或 LPOJ） 是一个为学校使用或�
 
 如果您想修改 Limple Online Judge，请阅读 [开发者文档](docs/developer/index.md) 。
 
-## 开发者列表：
+## 开发者
 
-* ztx8192
+* ztx
